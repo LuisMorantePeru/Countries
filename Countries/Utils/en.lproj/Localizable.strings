@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Countries
+
+  Created by Luis Morante on 3/03/24.
+  
+*/
+
+//Manejo de Errores
+"error.invalidURL" = "La URL proporcionada no es válida.";
+"error.noData" = "No se recibieron datos de la respuesta.";
+"error.decodingError" = "Error de decodificación:";
+"error.unknownError" = "Se ha producido un error desconocido.";
